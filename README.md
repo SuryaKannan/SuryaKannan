@@ -6,6 +6,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SuryaKannan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surya-kannan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thesuryakannan@gmail.com)
+[![Personal](https://img.shields.io/badge/👋-Personal-green)](https://suryakannan.super.site)
 
 
 <a href="#macropower-title">
@@ -21,7 +22,7 @@
 - ❤️ I'm passionate about the [self driving space](https://github.com/Monash-Connected-Autonomous-Vehicle) and everything robotics 
 - 🌱 I'm currently learning more about cloud services (AWS, Azure) and CI/CD tools 
 - ⚡️ Fun-Fact: love to play guitar and listen to music as a pass time! 
-- 📫 How to reach me: thesuryakannan@gmail.com
+- 📫 Checkout my [website](https://suryakannan.super.site)! 
 
 
 
