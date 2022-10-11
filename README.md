@@ -18,7 +18,7 @@
 
 ### A little about me 🧑🏾‍🚀
 
-- 👨🏽‍💻 I’m currently working on [my final year project](https://github.com/SuryaKannan/image_path_planning) (to be made public soon!)
+- 👨🏽‍💻 Check out [my final year project](https://github.com/SuryaKannan/image_path_planning)!
 - ❤️ I'm passionate about the [self driving space](https://github.com/Monash-Connected-Autonomous-Vehicle) and everything robotics 
 - 🌱 I'm currently learning more about cloud services (AWS, Azure) and CI/CD tools 
 - ⚡️ Fun-Fact: love to play guitar and listen to music as a pass time! 
