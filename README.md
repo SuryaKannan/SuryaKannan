@@ -8,21 +8,13 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thesuryakannan@gmail.com)
 [![Personal](https://img.shields.io/badge/👋-Personal-green)](https://suryakannan.super.site)
 
-
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/SuryaKannan/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />  
-</a>
-
-
 ---
 
 ### A little about me 🧑🏾‍🚀
 
-- 👨🏽‍💻 Check out [my final year project](https://github.com/SuryaKannan/image_path_planning)!
 - ❤️ I'm passionate about the [self driving space](https://github.com/Monash-Connected-Autonomous-Vehicle) and everything robotics 
-- 🌱 I'm currently learning more about cloud services (AWS, Azure) and CI/CD tools 
-- ⚡️ Fun-Fact: love to play guitar and listen to music as a pass time! 
-- 📫 Checkout my [website](https://suryakannan.super.site)! 
+- ⚡️ Fun-Fact: love to play guitar and listen to all kinds of music. Check out my [Spotify](https://open.spotify.com/user/31xfcqteocylxwdvkazdhywuurja?si=f510f831747a4111) if you're game
+
 
 
 
