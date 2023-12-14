@@ -10,11 +10,3 @@
 
 ---
 
-### A little about me 🧑🏾‍🚀
-
-- ❤️ I'm passionate about the [self driving space](https://github.com/Monash-Connected-Autonomous-Vehicle) and everything robotics 
-- ⚡️ Fun-Fact: love to make and listen to all kinds of music. Check out my [Spotify](https://open.spotify.com/user/31xfcqteocylxwdvkazdhywuurja?si=f510f831747a4111) if you're game
-
-
-
-
